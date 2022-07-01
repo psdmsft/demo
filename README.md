@@ -1,3 +1,15 @@
 # demo
 
-Hello world 2
+Hello world
+
+## Manager
+
+Ayushi
+
+## Teammates
+
+- Andrew
+- Anika
+- Mackenzie
+- Shreedhar
+- Tyler
